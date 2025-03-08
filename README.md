@@ -6,7 +6,7 @@ Here's a well-structured **GitHub README.md** for your Vite + React deployment g
 
 ### 📜 **README.md - Deploy Vite + React to GitHub Pages**  
 
-```md
+
 # 🚀 Deploy a Vite + React App to GitHub Pages  
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=for-the-badge&logo=github)  
@@ -18,7 +18,7 @@ Here's a well-structured **GitHub README.md** for your Vite + React deployment g
 ---
 
 ## 🎯 **Live Demo**
-🌍 [Check out the deployed site!](https://USERNAME.github.io/REPO_NAME/)  
+🌍 [Check out the deployed site!](https://kingslayer458.github.io/REACTER-KINGPLAY-VIDEOSTREAMERO/)  
 
 ---
 
