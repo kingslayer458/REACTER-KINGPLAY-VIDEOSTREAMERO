@@ -116,9 +116,6 @@ npm run deploy
 
 ---
 
-## 🎯 **Done! Your Vite + React App is Live!** 🚀  
-![Success](https://kingslayer458.github.io/REACTER-KINGPLAY-VIDEOSTREAMERO/)  
-
 ---
 
 ## ❓ **Troubleshooting**
