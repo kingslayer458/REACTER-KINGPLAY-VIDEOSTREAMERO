@@ -189,7 +189,7 @@ function App() {
       duration: "155min",
       language: "English",
       description: "In the 1990s, Sonny Hayes was Formula 1's most promising driver until an accident on the track nearly ended his career. Thirty years later, the owner of a struggling Formula 1 team convinces Sonny to return to racing and become the best in the world. Driving alongside the team's hotshot rookie, Sonny soon learns that the road to redemption is not something you can travel alone.",
-      categories: ["Action", "Horror", "Thriller"],
+      categories: ["Action", "Drama", "Thriller"],
       trailerUrl: "https://youtu.be/CT2_P2DZBR0?si=-sfz6vnwyumrvYcx",
       videoUrl: "http://dconukwsv1k1n.cloudfront.net/F1.mkv"
     }
