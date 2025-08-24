@@ -16,6 +16,7 @@ import ironManImage from './assets/images/posters/iron-man.jpg';
 import topGunImage from './assets/images/posters/top-gun.jpg';
 import laLaLandImage from './assets/images/posters/la-la-land.jpg';
 import trainToBusanImage from './assets/images/posters/train-to-busan.jpeg';
+import f1movieimage from './assets/images/posters/f1moviemain.png';
 // Import banner images
 import piratesBanner from './assets/images/banners/pirates-banner.jpg';
 import fantasticBeastsBanner from './assets/images/banners/fantastic-beasts-banner.jpg';
@@ -26,6 +27,7 @@ import ironManBanner from './assets/images/banners/iron-man-banner.jpg';
 import topGunBanner from './assets/images/banners/top-gun-banner.jpg';
 import laLaLandBanner from './assets/images/banners/la-la-land-banner.jpg';
 import trainToBusanBanner from './assets/images/banners/train-to-busan-banner.jpg';
+import f1moviebanner from './assets/images/banners/f1moviebanner.png';
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -175,6 +177,21 @@ function App() {
       categories: ["Action", "Horror", "Thriller"],
       trailerUrl: "https://youtu.be/1ovgxN2VWNc",
       videoUrl: "https://d3tnc0g5s3bgvx.cloudfront.net/test9.mkv"
+    },
+    {
+      id: 10,
+      title: "F1",
+      image: f1movieimage,
+      bannerImage: f1moviebanner,
+      quality: "Full HD",
+      rating: "7.8",
+      year: "2025",
+      duration: "155min",
+      language: "English",
+      description: "In the 1990s, Sonny Hayes was Formula 1's most promising driver until an accident on the track nearly ended his career. Thirty years later, the owner of a struggling Formula 1 team convinces Sonny to return to racing and become the best in the world. Driving alongside the team's hotshot rookie, Sonny soon learns that the road to redemption is not something you can travel alone.",
+      categories: ["Action", "Horror", "Thriller"],
+      trailerUrl: "https://youtu.be/CT2_P2DZBR0?si=-sfz6vnwyumrvYcx",
+      videoUrl: "http://dconukwsv1k1n.cloudfront.net/F1.mkv"
     }
   ];
 
