@@ -174,7 +174,7 @@ function App() {
       duration: "118min",
       language: "English",
       description: "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
-      categories: ["Action", "Horror", "Thriller"],
+      categories: ["Action", "Drama", "Thriller"],
       trailerUrl: "https://youtu.be/1ovgxN2VWNc",
       videoUrl: "https://d3tnc0g5s3bgvx.cloudfront.net/test9.mkv"
     },
